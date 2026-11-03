@@ -1,0 +1,33 @@
+:root {
+  --cor-primaria: #2563eb;
+  --cor-primaria-escura: #1d4ed8;
+  --cor-secundaria: #f59e0b;
+  --cor-sucesso: #16a34a;
+  --cor-erro: #dc2626;
+
+  --cor-fundo: #f5f7fb;
+  --cor-superficie: #ffffff;
+  --cor-borda: #e2e8f0;
+
+  --cor-texto: #1e293b;
+  --cor-texto-suave: #64748b;
+  --cor-texto-claro: #ffffff;
+
+  --fonte-base: "Segoe UI", Roboto, Arial, sans-serif;
+  --fonte-tam-sm: 0.85rem;
+  --fonte-tam-md: 1rem;
+  --fonte-tam-lg: 1.25rem;
+  --fonte-tam-xl: 1.75rem;
+
+  --espaco-xs: 0.25rem;
+  --espaco-sm: 0.5rem;
+  --espaco-md: 1rem;
+  --espaco-lg: 1.5rem;
+  --espaco-xl: 2.5rem;
+
+  --raio-sm: 6px;
+  --raio-md: 12px;
+  --raio-lg: 20px;
+
+  --sombra: 0 2px 10px rgba(15, 23, 42, 0.08);
+}
